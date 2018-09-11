@@ -4,4 +4,4 @@ python:
  - "3.6"
  - "3.5"
 script:
-- pytest testcalc.py
+ - pytest testcalc.py
