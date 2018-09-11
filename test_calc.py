@@ -1,6 +1,5 @@
 import pytest
 from calc import soma
-
 def tesscalc():
  assert soma(1, 1) == 2
  assert soma(-1, 1) == 0
